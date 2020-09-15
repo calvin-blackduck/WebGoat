@@ -1,0 +1,10 @@
+blackduck:
+  url: 'https://seangpost.app.blackduck.com/'
+  trust.cert: true
+  username: 'sysadmin'
+  password: 'ZiJDRQlOQV5aOa7j'
+detect:
+  project.name: 'azure-devops-yml'
+  project.version.name: '1'
+  blackduck.signature.scanner.exclusion.patterns: '/*/bin/,/*/obj/,/packages/'
+  detector.search.depth: 1
