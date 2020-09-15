@@ -1,8 +1,7 @@
 blackduck:
   url: 'https://seangpost.app.blackduck.com/'
   trust.cert: true
-  username: 'sysadmin'
-  password: 'ZiJDRQlOQV5aOa7j'
+  api.token: 'ODAyYjdjMGMtZTNiNy00ZTc0LWIwNGUtZWQ4YWY3NDdmMTFkOjY4ZWQzMjEzLWZjNDItNDQ5Zi1hMzZmLWU5YTBjNWExMjExZA=='
 detect:
   project.name: 'azure-devops-yml'
   project.version.name: '1'
