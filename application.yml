@@ -5,3 +5,4 @@ detect:
   project.version.name: '1'
   blackduck.signature.scanner.exclusion.patterns: '/*/bin/,/*/obj/,/packages/'
   detector.search.depth: 1
+  tools: 'SIGNATURE_SCAN'
